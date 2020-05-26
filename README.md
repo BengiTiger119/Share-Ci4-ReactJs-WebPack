@@ -37,5 +37,5 @@
 
 ```html
 <!-- Line Number : 387  -->
-<script src="dist/main.js" charset="utf-8"></script>
+<script src="/dist/main.js" charset="utf-8"></script>
 ```
