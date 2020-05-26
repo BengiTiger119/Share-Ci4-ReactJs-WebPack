@@ -1,0 +1,10 @@
+$fontColor: #df4f21;
+$fontSize: 32px;
+.title {
+  color: $fontColor;
+  font-size: $fontSize !important;
+  display: inline-block;
+  margin: 0;
+  margin-right: 30px;
+  margin-bottom: 55px;
+}
