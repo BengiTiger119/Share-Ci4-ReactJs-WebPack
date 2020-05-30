@@ -39,3 +39,19 @@
 <!-- Line Number : 387  -->
 <script src="/dist/main.js" charset="utf-8"></script>
 ```
+
+---
+
+### mistake
+
+file name : package.json
+
+```javascript
+"scripts": {
+ 
+  "dev": "./node_modules/.bin/webpack --config ./config/webpack.config.dev.js --watch --hot",
+ 
+  "build": "./node_modules/.bin/webpack --config ./config/webpack.config.prod.js"
+ 
+},
+```
