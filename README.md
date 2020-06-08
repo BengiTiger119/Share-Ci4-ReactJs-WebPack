@@ -57,5 +57,3 @@ file name : package.json
 ```
 
 
-[![Everything Is ...](https://img.youtube.com/vi/i-MnRqNn0_g/0.jpg)](https://www.youtube.com/watch?v=i-MnRqNn0_g?t=0s "Alice is a fox")
-
